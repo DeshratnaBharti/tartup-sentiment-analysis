@@ -14,7 +14,7 @@ It uses **Python, Pandas, NLP (TextBlob), and Matplotlib** to clean text, analyz
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack 
 - **Python** 🐍  
 - **Pandas** → Data Cleaning & Processing  
 - **TextBlob** → Sentiment Analysis (NLP)  
