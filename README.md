@@ -1,15 +1,25 @@
-# Startup Sentiment Analysis
+# 🚀 Startup Sentiment Analysis  
 
-This project analyzes customer tweets/reviews for popular Indian startups 
-like **Zomato, Swiggy, and Paytm** using Python NLP (TextBlob).  
-It generates:
-- Cleaned dataset with sentiment labels
-- Brand-wise sentiment summary
-- Visualization chart
+This project performs **sentiment analysis** on customer tweets/reviews of popular Indian startups like **Zomato, Swiggy, and Paytm**.  
+It uses **Python, Pandas, NLP (TextBlob), and Matplotlib** to clean text, analyze sentiment, and generate meaningful insights.  
 
-## How to Run
-```bash
-git clone https://github.com/your-username/startup-sentiment-analysis.git
-cd startup-sentiment-analysis
-pip install -r requirements.txt
-python analyze.py
+---
+
+## 🔥 Features  
+- ✅ Cleans and preprocesses raw tweets  
+- ✅ Performs **sentiment analysis** (Positive / Negative / Neutral) using NLP  
+- ✅ Creates **brand-wise sentiment summary**  
+- ✅ Generates visualization charts for quick insights  
+- ✅ Saves outputs as `.csv` and `.png` files  
+
+---
+
+## 🛠️ Tech Stack  
+- **Python** 🐍  
+- **Pandas** → Data Cleaning & Processing  
+- **TextBlob** → Sentiment Analysis (NLP)  
+- **Matplotlib** → Data Visualization  
+
+---
+
+## 📂 Project Structure  
