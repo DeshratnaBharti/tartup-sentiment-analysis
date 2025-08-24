@@ -18,18 +18,7 @@ It uses **Python, Pandas, NLP (TextBlob), and Matplotlib** to clean text, analyz
 - **Python** 🐍  
 - **Pandas** → Data Cleaning & Processing  
 - **TextBlob** → Sentiment Analysis (NLP)  
-- **Matplotlib** → Data Visualization  
-
----
-
-## 📂 Project Structure  
-startup-sentiment-analysis/
-│── data/
-│ └── tweets.csv # Raw dataset
-│── analyze.py # Main script
-│── requirements.txt # Dependencies
-│── README.md # Documentation
-
+- **Matplotlib** → Data Visualization 
 
 
 ---
