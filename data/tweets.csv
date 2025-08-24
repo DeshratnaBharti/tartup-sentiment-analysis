@@ -1,0 +1,6 @@
+startup-sentiment-analysis/
+│── data/
+│   └── tweets.csv   👈 yaha rakhni hai
+│── analyze.py
+│── requirements.txt
+│── README.md
