@@ -23,3 +23,26 @@ It uses **Python, Pandas, NLP (TextBlob), and Matplotlib** to clean text, analyz
 ---
 
 ## 📂 Project Structure  
+startup-sentiment-analysis/
+│── data/
+│ └── tweets.csv # Raw dataset
+│── analyze.py # Main script
+│── requirements.txt # Dependencies
+│── README.md # Documentation
+
+
+
+---
+
+## ⚡ How to Run  
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/startup-sentiment-analysis.git
+cd startup-sentiment-analysis
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the analysis
+python analyze.py
